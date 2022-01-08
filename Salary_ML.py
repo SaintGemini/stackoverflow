@@ -1,3 +1,4 @@
+# Project 1 - Data Science Course - Udacity
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
